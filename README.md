@@ -2,7 +2,11 @@
 
 A modern and responsive brand landing page built with React and Tailwind CSS. This project is designed for practice and showcases a clean, user-friendly interface.
 
-![Preview](./public/preview.png) <!-- Add a screenshot of your project here -->
+
+[Demo Link](https://brand-page-ssg.vercel.app/)
+
+
+![Preview](./public/images/preview.jpg)
 
 ## Features
 
