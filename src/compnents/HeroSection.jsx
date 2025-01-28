@@ -11,9 +11,8 @@ const HeroSection = () => {
             YOUR FEET DESERVE THE BEST
           </h1>
           <p className="text-gray-600 mb-8">
-            YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
-            SHOES. YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH
-            OUR SHOES.
+            YOUR FEET CARRY YOU THROUGH LIFE—TREAT THEM TO THE FINEST SHOES.
+            EXPERIENCE UNMATCHED COMFORT AND DURABILITY WITH EVERY STEP.
           </p>
 
           {/* Buttons */}
